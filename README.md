@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nitin Jha
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning Python basics
+- 📫 You can reach to me on nitinjha10@ymail.com
